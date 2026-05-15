@@ -20,8 +20,6 @@ I’m passionate about building responsible technology, intelligent systems, and
 
 ## 🎓 Education
 - MSc Big Data Science and Technology (Distinction)
-- CIPD Level 7 Candidate
-- Lean Six Sigma Green Belt
 
 ---
 
